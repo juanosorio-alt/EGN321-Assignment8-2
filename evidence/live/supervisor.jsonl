@@ -1,0 +1,6 @@
+{"timestamp": "2026-10-23T22:39:17.855562+00:00", "kind": "SUPERVISOR_START", "pid": 45376}
+{"timestamp": "2026-10-23T22:39:17.856993+00:00", "kind": "CHILD_STARTED", "pid": 45386}
+{"timestamp": "2026-10-23T22:39:28.179896+00:00", "kind": "CONTROLLED_CHILD_KILL", "pid": 45386}
+{"timestamp": "2026-10-23T22:39:28.285851+00:00", "kind": "CHILD_EXIT", "pid": 45386, "exit_code": -9}
+{"timestamp": "2026-10-23T22:39:28.286153+00:00", "kind": "RESTART_SCHEDULED", "delay_seconds": 1}
+{"timestamp": "2026-10-23T22:39:29.291327+00:00", "kind": "CHILD_STARTED", "pid": 45429}

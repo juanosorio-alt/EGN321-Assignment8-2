@@ -1,0 +1,11 @@
+{"timestamp": "2026-10-23T22:39:17.920667+00:00", "component": "inventory", "event": "APPLICATION_START", "pid": 45386, "policy": "classroom-v1"}
+{"timestamp": "2026-10-23T22:39:28.082081+00:00", "component": "inventory", "event": "HEALTH_CHANGED", "pid": 45386, "previous": "RECOVERING", "current": "HEALTHY"}
+{"timestamp": "2026-10-23T22:39:28.083549+00:00", "component": "inventory", "event": "REVIEW_SAVED", "pid": 45386, "review_id": "eb754ff2310a48a2a0990b9fd3840e08", "item_count": 6, "policy": "classroom-v1"}
+{"timestamp": "2026-10-23T22:39:28.084274+00:00", "component": "inventory", "event": "INPUT_REFUSED", "pid": 45386, "reason": "Item 1: On hand must be finite and between 0 and 1,000,000."}
+{"timestamp": "2026-10-23T22:39:28.085357+00:00", "component": "inventory", "event": "REVIEW_SAVED", "pid": 45386, "review_id": "38581b0f4bae4f1fb96afa6e8d34fccc", "item_count": 1, "policy": "classroom-v1"}
+{"timestamp": "2026-10-23T22:39:28.086740+00:00", "component": "inventory", "event": "STORAGE_UNAVAILABLE", "pid": 45386, "exception": "OperationalError", "reason": "Controlled storage outage is active"}
+{"timestamp": "2026-10-23T22:39:28.086783+00:00", "component": "inventory", "event": "HEALTH_CHANGED", "pid": 45386, "previous": "HEALTHY", "current": "FAILED"}
+{"timestamp": "2026-10-23T22:39:28.090114+00:00", "component": "inventory", "event": "HEALTH_CHANGED", "pid": 45386, "previous": "FAILED", "current": "HEALTHY"}
+{"timestamp": "2026-10-23T22:39:28.091914+00:00", "component": "inventory", "event": "REVIEW_SAVED", "pid": 45386, "review_id": "6e6e706dfd7640d496892ac79d2081b8", "item_count": 6, "policy": "classroom-v1"}
+{"timestamp": "2026-10-23T22:39:29.367662+00:00", "component": "inventory", "event": "APPLICATION_START", "pid": 45429, "policy": "classroom-v1"}
+{"timestamp": "2026-10-23T22:39:29.528172+00:00", "component": "inventory", "event": "HEALTH_CHANGED", "pid": 45429, "previous": "RECOVERING", "current": "HEALTHY"}

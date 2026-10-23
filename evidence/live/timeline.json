@@ -1,0 +1,79 @@
+[
+  {
+    "time": "2026-10-23T22:39:28.082681+00:00",
+    "event": "01_normal",
+    "http": 200
+  },
+  {
+    "time": "2026-10-23T22:39:28.083932+00:00",
+    "event": "02_workbook_review",
+    "http": 201
+  },
+  {
+    "time": "2026-10-23T22:39:28.084689+00:00",
+    "event": "03_invalid_refusal",
+    "http": 400
+  },
+  {
+    "time": "2026-10-23T22:39:28.085691+00:00",
+    "event": "04_safety_stock_case",
+    "http": 201
+  },
+  {
+    "time": "2026-10-23T22:39:28.086462+00:00",
+    "event": "05_history_before",
+    "http": 200
+  },
+  {
+    "time": "2026-10-23T22:39:28.086545+00:00",
+    "event": "FAILURE_INTRODUCED",
+    "action": "Create storage.unavailable in the test runtime"
+  },
+  {
+    "time": "2026-10-23T22:39:28.087079+00:00",
+    "event": "06_failed",
+    "http": 503
+  },
+  {
+    "time": "2026-10-23T22:39:28.087597+00:00",
+    "event": "07_save_blocked",
+    "http": 503
+  },
+  {
+    "time": "2026-10-23T22:39:28.089726+00:00",
+    "event": "RECOVERY_ACTION",
+    "action": "Remove only the control file"
+  },
+  {
+    "time": "2026-10-23T22:39:28.090426+00:00",
+    "event": "08_recovered",
+    "http": 200
+  },
+  {
+    "time": "2026-10-23T22:39:28.091217+00:00",
+    "event": "09_history_after",
+    "http": 200
+  },
+  {
+    "time": "2026-10-23T22:39:28.092274+00:00",
+    "event": "10_new_review",
+    "http": 201
+  },
+  {
+    "time": "2026-10-23T22:39:28.092398+00:00",
+    "event": "CHILD_KILL_REQUESTED",
+    "pid": 45386,
+    "mechanism": "Supervisor opt-in control"
+  },
+  {
+    "time": "2026-10-23T22:39:29.529271+00:00",
+    "event": "PROCESS_RECOVERED",
+    "pid": 45429,
+    "seconds": 1.43686337500003
+  },
+  {
+    "time": "2026-10-23T22:39:29.531279+00:00",
+    "event": "11_final_history",
+    "http": 200
+  }
+]

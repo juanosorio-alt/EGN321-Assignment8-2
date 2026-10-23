@@ -1,0 +1,6 @@
+{
+  "workbook_sha256": "6ed094b93f98e53fadb401db660a3001a3aa8750d426e13fda52c791edae5b42",
+  "input_range": "Inventory!A4:G9",
+  "cached_result_range": "Reorder Logic!A4:F9",
+  "provenance": "Instructor-authorized fictional workbook preserved from Assignment 3.2; no formulas edited."
+}

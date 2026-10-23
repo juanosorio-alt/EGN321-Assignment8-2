@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "P-100",
+    "demand": 24,
+    "reorder_point": 34,
+    "on_hand": 38,
+    "reorder": "NO",
+    "order_qty": 0
+  },
+  {
+    "sku": "P-110",
+    "demand": 24,
+    "reorder_point": 30,
+    "on_hand": 24,
+    "reorder": "YES",
+    "order_qty": 36
+  },
+  {
+    "sku": "P-120",
+    "demand": 12,
+    "reorder_point": 16,
+    "on_hand": 9,
+    "reorder": "YES",
+    "order_qty": 23
+  },
+  {
+    "sku": "P-130",
+    "demand": 10,
+    "reorder_point": 15,
+    "on_hand": 22,
+    "reorder": "NO",
+    "order_qty": 0
+  },
+  {
+    "sku": "P-140",
+    "demand": 10,
+    "reorder_point": 13,
+    "on_hand": 7,
+    "reorder": "YES",
+    "order_qty": 19
+  },
+  {
+    "sku": "P-150",
+    "demand": 20,
+    "reorder_point": 28,
+    "on_hand": 42,
+    "reorder": "NO",
+    "order_qty": 0
+  }
+]

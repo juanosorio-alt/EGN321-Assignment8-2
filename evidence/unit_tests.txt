@@ -1,0 +1,23 @@
+test_actual_sqlite_lock_refuses_then_recovers (test_inventory.ApplicationTests.test_actual_sqlite_lock_refuses_then_recovers) ... ok
+test_atomic_refusal_does_not_save_partial_rows (test_inventory.ApplicationTests.test_atomic_refusal_does_not_save_partial_rows) ... ok
+test_controlled_failure_and_recovery (test_inventory.ApplicationTests.test_controlled_failure_and_recovery) ... ok
+test_csv_formula_label_escaped (test_inventory.ApplicationTests.test_csv_formula_label_escaped) ... ok
+test_html_and_malformed_json (test_inventory.ApplicationTests.test_html_and_malformed_json) ... ok
+test_save_export_restart_preserves_history (test_inventory.ApplicationTests.test_save_export_restart_preserves_history) ... ok
+test_01_six_original_workbook_cases (test_inventory.CalculationTests.test_01_six_original_workbook_cases) ... ok
+test_02_ignored_safety_stock_edge (test_inventory.CalculationTests.test_02_ignored_safety_stock_edge) ... ok
+test_03_negative_stock_refused (test_inventory.CalculationTests.test_03_negative_stock_refused) ... ok
+test_04_sku_association_survives_sort_and_add (test_inventory.CalculationTests.test_04_sku_association_survives_sort_and_add) ... ok
+test_bad_numeric_inputs (test_inventory.CalculationTests.test_bad_numeric_inputs) ... ok
+test_duplicate_and_empty (test_inventory.CalculationTests.test_duplicate_and_empty) ... ok
+test_fractional_counts_refused (test_inventory.CalculationTests.test_fractional_counts_refused) ... ok
+test_fractional_demand_rounds_up (test_inventory.CalculationTests.test_fractional_demand_rounds_up) ... ok
+test_missing_identifiers (test_inventory.CalculationTests.test_missing_identifiers) ... ok
+test_reorder_boundary (test_inventory.CalculationTests.test_reorder_boundary) ... ok
+test_units_refused (test_inventory.CalculationTests.test_units_refused) ... ok
+test_zero_demand (test_inventory.CalculationTests.test_zero_demand) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 2.170s
+
+OK

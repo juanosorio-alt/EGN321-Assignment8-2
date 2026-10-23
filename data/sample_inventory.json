@@ -1,0 +1,62 @@
+[
+  {
+    "sku": "P-100",
+    "item": "Filter Cartridge",
+    "on_hand": 38,
+    "weekly_use": 12,
+    "lead_time": 2,
+    "safety_stock": 10,
+    "unit": "each",
+    "lead_unit": "weeks"
+  },
+  {
+    "sku": "P-110",
+    "item": "Seal Kit",
+    "on_hand": 24,
+    "weekly_use": 8,
+    "lead_time": 3,
+    "safety_stock": 6,
+    "unit": "each",
+    "lead_unit": "weeks"
+  },
+  {
+    "sku": "P-120",
+    "item": "Pressure Gauge",
+    "on_hand": 9,
+    "weekly_use": 3,
+    "lead_time": 4,
+    "safety_stock": 4,
+    "unit": "each",
+    "lead_unit": "weeks"
+  },
+  {
+    "sku": "P-130",
+    "item": "Flexible Hose",
+    "on_hand": 22,
+    "weekly_use": 5,
+    "lead_time": 2,
+    "safety_stock": 5,
+    "unit": "each",
+    "lead_unit": "weeks"
+  },
+  {
+    "sku": "P-140",
+    "item": "Valve Assembly",
+    "on_hand": 7,
+    "weekly_use": 2,
+    "lead_time": 5,
+    "safety_stock": 3,
+    "unit": "each",
+    "lead_unit": "weeks"
+  },
+  {
+    "sku": "P-150",
+    "item": "Clamp Set",
+    "on_hand": 42,
+    "weekly_use": 10,
+    "lead_time": 2,
+    "safety_stock": 8,
+    "unit": "each",
+    "lead_unit": "weeks"
+  }
+]
