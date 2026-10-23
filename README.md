@@ -154,4 +154,4 @@ The output directory must not exist. Keep port 5082 free of other applications. 
 - `docs/VERIFICATION.md`, `docs/DEMO_AND_DEFENSE.md`, `docs/HANDOFF.md`: explanation and rehearsal.
 - `AI_LOG.md`: AI tasks, accepted work, changes and verification.
 
-The repository URL is supplied separately when published. The partner handoff results and at least two post-handoff improvements remain outstanding; do not submit this as a completed handoff.
+GitHub repository: https://github.com/juanosorio-alt/EGN321-Assignment8-2 The partner handoff results and at least two post-handoff improvements remain outstanding; do not submit this as a completed handoff.
